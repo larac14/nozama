@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .content {
+    display: flex;
+    gap: 50px;
+  }
+  
+  .image {
+    width: 100px;
+    margin-left: 300px;
+  }
+  
+  .text {
+    text-align: left;
+    font-size: 25px;
+    margin-left: 700px;
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  
+  .title {
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: -40px;
+    font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
